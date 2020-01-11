@@ -2,7 +2,7 @@
 #define KEYWORDS
 
 int main(){
-    
+    cout << "hello" << endl;
 }
 
 #endif
