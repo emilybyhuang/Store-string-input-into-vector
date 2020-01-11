@@ -1,9 +1,6 @@
+#include <string>
 #ifndef KEYWORDS
 #define KEYWORDS
-
-int main(){
-    cout << "hello" << endl;
-}
-
+std::string keywords[3] = {"Insert", "Delete", "Replace"};
 #endif
 
